@@ -15,6 +15,7 @@ Precios de café recopilados para fines educativos.
 
 ## Estructura
 
+```text
 tarea1_fundamentos/
 ├── data/
     ├── raw/      # datos originales (no se modifican)
@@ -26,6 +27,7 @@ tarea1_fundamentos/
 ├── tarea1_fundamentos.Rproj
 ├── README.md      # este archivo
 └── .gitignore
+```
 
 ## Autor
 
